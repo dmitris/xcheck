@@ -1,0 +1,8 @@
+[package]
+name = "xcheck-ebpf"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "xcheck-ebpf"
+path = "src/main.rs"
